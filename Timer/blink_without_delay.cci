@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:524F19D0
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\millis.h"
+NODE:V LEVEL:0 LINE:28 "lasttime -> RAM:????"
+NODE:V LEVEL:0 LINE:29 "s -> R2.0"
+NODE:F LEVEL:0 LINE:30 "main(void)"
